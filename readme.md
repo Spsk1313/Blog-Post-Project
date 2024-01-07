@@ -7,7 +7,7 @@ A minimalist blog project showcasing fundamental web design concepts using HTML 
 The project includes two main files:
 
 - `index.html`: The HTML file defining the structure of the blog.
-- `style.css`: The CSS file providing styling for a clean and engaging presentation.
+- `app.css`: The CSS file providing styling for a clean and engaging presentation.
 
 ## Features
 
